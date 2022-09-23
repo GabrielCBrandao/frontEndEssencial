@@ -1,0 +1,11 @@
+body{
+    background-image: url(https://www.datocms-assets.com/14946/1627633980-javascript.png);
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.btn-success{
+    
+    width: 100px;
+    height: 100px;
+}
